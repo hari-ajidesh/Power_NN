@@ -4,7 +4,7 @@ This repository contains an implementation of neural networks to determine ship 
 Language : TensorFlow
 
 ## Neural Network Model Architecture Used:
-Input Layer : Normalizer Layer
-Hidden Layers : 3 stacked layers where each is Dense Layer with swish activation function
-Output Layer : Dense Layer
+-Input Layer : Normalizer Layer
+-Hidden Layers : 3 stacked layers where each is Dense Layer with swish activation function
+-Output Layer : Dense Layer
 
