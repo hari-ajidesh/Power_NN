@@ -6,9 +6,9 @@ Language : TensorFlow
 Video : https://youtu.be/bORmY2huy2o
 
 ## Neural Network Model Architecture Used:
--Input Layer : Normalizer Layer
+-Input Layer(6 neurons) : Normalizer Layer
 
--Hidden Layers : 3 stacked layers where each is Dense Layer with swish activation function
+-Hidden Layers(each having 6 neurons)  : 3 stacked layers where each is Dense Layer with swish activation function
 
--Output Layer : Dense Layer
+-Output Layer(1 neuron) : Dense Layer
 
