@@ -5,6 +5,8 @@ Language : TensorFlow
 
 ## Neural Network Model Architecture Used:
 -Input Layer : Normalizer Layer
+
 -Hidden Layers : 3 stacked layers where each is Dense Layer with swish activation function
+
 -Output Layer : Dense Layer
 
